@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "lista":[
+   {
+      "categoria": "Procesador",
+      "id": 1,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Ryzen 5 5600X",
+      "precio": 42999,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 2,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Ryzen 5 5600G",
+      "precio": 40999,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 3,
+      "imagen": ".//src/multimedia/ryzen75800x.jpeg",
+      "nombre": "Ryzen 7 5800X",
+      "precio": 56999,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 4,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Ryzen 7 4750G",
+      "precio": 49989,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 5,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Ryzen 9 5900X",
+      "precio": 76399,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 6,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Ryzen 9 5950X",
+      "precio": 109989,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 7,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Core I5 11400",
+      "precio": 31999,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 8,
+      "imagen": ".//src/multimedia/i512gl.jpeg",
+      "nombre": "Core I5 12400",
+      "precio": 35999,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 9,
+      "imagen": ".//src/multimedia/i512g.jpeg",
+      "nombre": "Core I5 12600KF",
+      "precio": 43499,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 10,
+      "imagen": ".//src/multimedia/ryzen53600.jpeg",
+      "nombre": "Core I7 11700KF",
+      "precio": 53999,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Procesador",
+      "id": 11,
+      "imagen": ".//src/multimedia/i712700f.jpeg",
+      "nombre": "Core I7 12700F",
+      "precio": 55999,
+      "stock": true,
+      "vendido": false
+   }
+]
+}
