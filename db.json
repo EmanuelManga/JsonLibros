@@ -107,6 +107,96 @@
       "precio": 55999,
       "stock": true,
       "vendido": false
+   },
+   {
+      "categoria": "Placa de video",
+      "id": 12,
+      "imagen": ".//src/multimedia/3070AsusTuf.jpeg",
+      "nombre": "GeForce RTX 3070 Asus TUF",
+      "precio": 226989,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Placa de video",
+      "id": 13,
+      "imagen": ".//src/multimedia/3070TIAsusTUF.jpeg",
+      "nombre": "GeForce RTX 3070TI Asus TUF",
+      "precio": 262979,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Placa de video",
+      "id": 14,
+      "imagen": ".//src/multimedia/3080TIZotacHolo.jpeg",
+      "nombre": "GeForce RTX 3080TI Zotac Holo",
+      "precio": 404889,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Placa de video",
+      "id": 15,
+      "imagen": ".//src/multimedia/6900XT.jpeg",
+      "nombre": "Radeon RX 6900XT ",
+      "precio": 354989,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Fuentes",
+      "id": 16,
+      "imagen": ".//src/multimedia/Giga850W.jpeg",
+      "nombre": "Gigabyte 850W 80Plus Gold ",
+      "precio": 19989,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Fuentes",
+      "id": 17,
+      "imagen": ".//src/multimedia/Aerocool850W.jpeg",
+      "nombre": "Aerocool Dorado 850W Rgb 80Plus Gold",
+      "precio": 16879,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Refrigeracion",
+      "id": 18,
+      "imagen": ".//src/multimedia/CoolerMasterMA410P.jpeg",
+      "nombre": "Cooler Cpu Cooler Master MA410P rgb 150W",
+      "precio": 9879,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Refrigeracion",
+      "id": 19,
+      "imagen": ".//src/multimedia/CoolerMasterMA410P.jpeg",
+      "nombre": "Cooler Cpu Cooler Master MA410P rgb 150W",
+      "precio": 9879,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Refrigeracion",
+      "id": 20,
+      "imagen": ".//src/multimedia/WaterAsusLC240.jpeg",
+      "nombre": "Cooler Cpu Watercooler Asus TUF Lc 240 180W",
+      "precio": 27109,
+      "stock": true,
+      "vendido": false
+   },
+   {
+      "categoria": "Refrigeracion",
+      "id": 21,
+      "imagen": ".//src/multimedia/AsusRogStrixLcii240.jpeg",
+      "nombre": "Cooler Cpu Watercooler Asus Rog Strix Lc II 240 180W",
+      "precio": 34689,
+      "stock": true,
+      "vendido": false
    }
 ]
 }
