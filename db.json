@@ -1,202 +1,44 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "lista":[
-   {
-      "categoria": "Procesador",
-      "id": 1,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Ryzen 5 5600X",
-      "precio": 42999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 2,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Ryzen 5 5600G",
-      "precio": 40999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 3,
-      "imagen": ".//src/multimedia/ryzen75800x.jpeg",
-      "nombre": "Ryzen 7 5800X",
-      "precio": 56999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 4,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Ryzen 7 4750G",
-      "precio": 49989,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 5,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Ryzen 9 5900X",
-      "precio": 76399,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 6,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Ryzen 9 5950X",
-      "precio": 109989,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 7,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Core I5 11400",
-      "precio": 31999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 8,
-      "imagen": ".//src/multimedia/i512gl.jpeg",
-      "nombre": "Core I5 12400",
-      "precio": 35999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 9,
-      "imagen": ".//src/multimedia/i512g.jpeg",
-      "nombre": "Core I5 12600KF",
-      "precio": 43499,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 10,
-      "imagen": ".//src/multimedia/ryzen53600.jpeg",
-      "nombre": "Core I7 11700KF",
-      "precio": 53999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Procesador",
-      "id": 11,
-      "imagen": ".//src/multimedia/i712700f.jpeg",
-      "nombre": "Core I7 12700F",
-      "precio": 55999,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Placa de video",
-      "id": 12,
-      "imagen": ".//src/multimedia/3070AsusTuf.jpeg",
-      "nombre": "GeForce RTX 3070 Asus TUF",
-      "precio": 226989,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Placa de video",
-      "id": 13,
-      "imagen": ".//src/multimedia/3070TIAsusTUF.jpeg",
-      "nombre": "GeForce RTX 3070TI Asus TUF",
-      "precio": 262979,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Placa de video",
-      "id": 14,
-      "imagen": ".//src/multimedia/3080TIZotacHolo.jpeg",
-      "nombre": "GeForce RTX 3080TI Zotac Holo",
-      "precio": 404889,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Placa de video",
-      "id": 15,
-      "imagen": ".//src/multimedia/6900XT.jpeg",
-      "nombre": "Radeon RX 6900XT ",
-      "precio": 354989,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Fuentes",
-      "id": 16,
-      "imagen": ".//src/multimedia/Giga850W.jpeg",
-      "nombre": "Gigabyte 850W 80Plus Gold ",
-      "precio": 19989,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Fuentes",
-      "id": 17,
-      "imagen": ".//src/multimedia/Aerocool850W.jpeg",
-      "nombre": "Aerocool Dorado 850W Rgb 80Plus Gold",
-      "precio": 16879,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Refrigeracion",
-      "id": 18,
-      "imagen": ".//src/multimedia/CoolerMasterMA410P.jpeg",
-      "nombre": "Cooler Cpu Cooler Master MA410P rgb 150W",
-      "precio": 9879,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Refrigeracion",
-      "id": 19,
-      "imagen": ".//src/multimedia/CoolerMasterMA410P.jpeg",
-      "nombre": "Cooler Cpu Cooler Master MA410P rgb 150W",
-      "precio": 9879,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Refrigeracion",
-      "id": 20,
-      "imagen": ".//src/multimedia/WaterAsusLC240.jpeg",
-      "nombre": "Cooler Cpu Watercooler Asus TUF Lc 240 180W",
-      "precio": 27109,
-      "stock": true,
-      "vendido": false
-   },
-   {
-      "categoria": "Refrigeracion",
-      "id": 21,
-      "imagen": ".//src/multimedia/AsusRogStrixLcii240.jpeg",
-      "nombre": "Cooler Cpu Watercooler Asus Rog Strix Lc II 240 180W",
-      "precio": 34689,
-      "stock": true,
-      "vendido": false
-   }
-]
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "lista":[
+     {
+                        
+        "nombre": "Harry Poter y la piedra filosofal",
+        "id": 1 , 
+        "stock": 15,
+        "precio": 8000,
+        "categoria":"Fantasia", 
+        "img":"https://http2.mlstatic.com/D_NQ_NP_722711-MLA42906730908_072020-O.jpg"
+     },
+     {
+        "nombre": "Harry Poter y la camara de los secretos",
+        "id": 2 , 
+        "stock": 10,
+        "precio": 9000,
+        "categoria":"Fantasia"
+     },
+     {
+        "nombre": "Harry Poter y el prisionero de Azkaban",
+        "id": 30 , 
+        "stock": 20,
+        "precio": 9500,
+        "categoria":"Fantasia"
+     },
+     {
+        "nombre": "La odisea",
+        "id": 4 , 
+        "stock": 8,
+        "precio": 5000,
+        "categoria":"Epopeya"
+     }
+     
+  ]
+  }
