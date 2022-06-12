@@ -12,7 +12,7 @@
      {
                         
         "nombre": "Harry Poter y la piedra filosofal",
-        "id": 1 , 
+        "id": "1" , 
         "stock": 15,
         "precio": 8000,
         "categoria":"Fantasia", 
@@ -20,21 +20,21 @@
      },
      {
         "nombre": "Harry Poter y la camara de los secretos",
-        "id": 2 , 
+        "id": "2" , 
         "stock": 10,
         "precio": 9000,
         "categoria":"Fantasia"
      },
      {
         "nombre": "Harry Poter y el prisionero de Azkaban",
-        "id": 30 , 
+        "id": "30" , 
         "stock": 20,
         "precio": 9500,
         "categoria":"Fantasia"
      },
      {
         "nombre": "La odisea",
-        "id": 4 , 
+        "id": "4" , 
         "stock": 8,
         "precio": 5000,
         "categoria":"Epopeya"
