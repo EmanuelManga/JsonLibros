@@ -36,6 +36,14 @@
         "categoria":"Fantasia"
      },
      {
+        "nombre": "Harry Poter y el prisionero de Azkaban",
+        "id": "30" , 
+        "stock": 20,
+        "cantidad": 0,
+        "precio": 9500,
+        "categoria":"terror"
+     },
+     {
         "nombre": "La odisea",
         "id": "4" , 
         "stock": 8,
